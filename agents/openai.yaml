@@ -1,0 +1,4 @@
+interface:
+  display_name: "滚动转场"
+  short_description: "为网站设计随滚动推进、可倒带的镜头，让前景和转场跟随网站主题变化"
+  default_prompt: "用 $scroll-scene 给我的网站设计并实现一段滚动转场，从页面主题和现有素材里挑选场景。"
